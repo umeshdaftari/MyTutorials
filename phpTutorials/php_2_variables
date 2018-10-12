@@ -30,7 +30,7 @@ TO ADD 2 NUMBERS:
 		echo $x + $y;
 	?>
 
-STING CONCATENATION USING DOT(.) OPERATOR
+STRING CONCATENATION USING DOT(.) OPERATOR
 	<?php
 		$txt = "W3Schools.com";
 		echo "I love " . $txt . "!";
